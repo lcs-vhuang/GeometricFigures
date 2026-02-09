@@ -63,7 +63,6 @@
 			isa = PBXGroup;
 			children = (
 				A680D3BF2F3A45EB003B4FC8 /* CircleView.swift */,
-				A680D3C22F3A4748003B4FC8 /* Circle.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -71,6 +70,7 @@
 		A680D3C12F3A470C003B4FC8 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				A680D3C22F3A4748003B4FC8 /* Circle.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
