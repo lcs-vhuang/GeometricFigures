@@ -61,7 +61,6 @@ struct CircleView: View {
 }
 
 
-
 #Preview {
     CircleView()
 }
